@@ -1,3 +1,7 @@
+## Thesis Context
+This repository is an independent computational extension of data collected for my BSc Final Year Thesis: "Hydrogeochemical Assessment of Groundwater in Asante Mampong, Ghana" (USTED, 2025-2026). Thesis = experimental field & lab work. This repo = independent Python analysis for graduate studies in Computational Chemistry.
+
+
 # Mampong Groundwater Quality Assessment
 
 Assessment of groundwater quality in Mampong based on 10 samples GW01 to GW10. Compared with WHO standards.
