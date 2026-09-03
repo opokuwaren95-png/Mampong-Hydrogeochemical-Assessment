@@ -1,9 +1,24 @@
-# Mampong_water
-Groundwater quality assessment of Mampong Municipality, Ghana. 10 borehole samples. Includes physicochemical parameters, heavy metals, and suitability for drinking using WHO standards. Computational Chemistry.
+# Mampong Groundwater Quality Assessment
 
-## pH Results
-![pH Chart](pH_chart.png)
+Assessment of groundwater quality in Mampong based on 10 samples GW01 to GW10.
 
-**Finding:** pH of 10 boreholes in Mampong ranges 4.5-6.0. All below WHO safe limit 6.5-8.5. Indicates acidic groundwater.
+## Results
 
-**Implication:** Water is acidic, may cause corrosion and needs pH adjustment before drinking.
+### pH Chart
+All samples below WHO limit 6.5, water is acidic.
+![pH](pH_chart.png)
+
+### TDS Chart
+All samples below WHO limit 500 mg/L, safe for drinking.
+![TDS](TDS_chart.png)
+
+### EC Chart
+All samples below WHO limit 1500 uS/cm.
+![EC](EC_chart.png)
+
+### Turbidity Chart
+Only GW04 exceeds WHO limit 5 NTU.
+![Turbidity](Turbidity_chart.png)
+
+## Conclusion
+Water is acidic and GW04 has turbidity problem.
