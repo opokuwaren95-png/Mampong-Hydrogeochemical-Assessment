@@ -1,6 +1,6 @@
 # From Hydrogeochemistry to Computational Chemistry
 
-**Author: Opoku-Ware Nelson **  
+**Author: Opoku-Ware Nelson**  
 BSc Chemistry Education - USTED, Ghana | BSc Computer Science (in view) - University of the People
 
 I have a background in Chemistry Education and I am currently studying Computer Science as well. I am interested in moving into computational chemistry and cheminformatics, so I have started learning Python and some of the tools used for scientific and chemical data analysis.
@@ -32,24 +32,24 @@ I wanted to use my own chemistry research data while learning Python instead of 
 
 #### 1. pH Analysis
 WHO guideline: 6.5 - 8.5
-![pH Chart](pH_chart.png)
+![pH Chart](pH_chart.png?raw=true)
 
 #### 2. Electrical Conductivity (EC)
-![EC Chart](EC_chart.png)
+![EC Chart](EC_chart.png?raw=true)
 
 #### 3. Total Dissolved Solids (TDS)
 WHO limit: 500 mg/L
-![TDS Chart](TDS_chart.png)
+![TDS Chart](TDS_chart.png?raw=true)
 
 #### 4. Turbidity
 WHO limit: 5 NTU
-![Turbidity Chart](Turbidity_chart.png)
+![Turbidity Chart](Turbidity_chart.png?raw=true)
 
 #### 5. Correlation Analysis
-![TDS vs EC](TDS_vs_EC_scatter.png)
+![TDS vs EC](TDS_vs_EC_scatter.png?raw=true)
 
 #### 6. Distribution
-![TDS Histogram](TDS_histogram.png)
+![TDS Histogram](TDS_histogram.png?raw=true)
 
 ### My Learning Plan
 1. **Scientific Python:** Python → NumPy → Pandas → Matplotlib → SciPy
@@ -57,9 +57,9 @@ WHO limit: 5 NTU
 3. **Computational Chemistry:** Molecular modelling → quantum chemistry → DFT → PySCF / Psi4
 
 ### Files in This Repository
-* `Mampong_Master_Dataset.csv` — 11 samples dataset
-* `Mampong_Groundwater_Analysis.ipynb` — Python analysis
-* Charts: `pH_chart.png`, `EC_chart.png`, `TDS_chart.png`, `Turbidity_chart.png`, `TDS_vs_EC_scatter.png`, `TDS_histogram.png`
+* `Mampong_Master_Dataset.csv` — 11 samples final dataset
+* `Mampong_Groundwater_Analysis.ipynb` — Python analysis (11 samples)
+* Charts: `pH_chart.png`, `EC_chart.png`, `TDS_chart.png`, `Turbidity_chart.png`, `TDS_vs_EC_scatter.png`, `TDS_histogram.png` — all n=11
 
 **LinkedIn:** linkedin.com/in/nelson-opoku-ware-1573a618b
 **Email:** opokuwaren95@gmail.com
