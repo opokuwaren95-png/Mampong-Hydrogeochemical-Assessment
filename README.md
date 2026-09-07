@@ -21,9 +21,9 @@ Some of the things I have worked on include:
 * Creating a scatter plot for TDS and EC
 * Comparing results with water-quality guidelines
 
-### Tools I Used
+ ### Tools I Used
 * Python, Jupyter Notebook, Pandas, NumPy, Matplotlib
-* Currently continuing with SciPy, next RDKit, PySCF / Psi4
+* Currently continuing with SciPy, next RDKit, followed later by  PySCF / Psi4
 
 ### Why I Created This Repository
 I wanted to use my own chemistry research data while learning Python instead of only following programming tutorials. It is the beginning of my transition from chemistry education towards computational chemistry.
